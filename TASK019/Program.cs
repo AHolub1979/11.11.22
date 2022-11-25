@@ -1,2 +1,25 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Задача 19
+// Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+// Выполнить с помощью числовых операций (целочисленное деление, остаток от деления).
+// 14212 -> нет
+// 12821 -> да
+// 23432 -> да
+
+Console.WriteLine ("Введите пятизначное число ");
+int a = Convert.ToInt32 (Console.ReadLine());
+
+int a1 = (a%10);
+int a2 = (a/10000);
+int temp = (a%100);
+int b1 = temp/10;
+int temp1 = (a%10000);
+int b2 = temp1/1000;
+
+
+if (a1 == a2 && b1 == b2)
+{
+    //Console.WriteLine ($"Число {a} является полиндромом");
+    Console.WriteLine ($"{a} -> Да");
+}
+//else Console.WriteLine ($"Число {a} не является полиндромом");
+else Console.WriteLine ($"{a} ->Нет");
