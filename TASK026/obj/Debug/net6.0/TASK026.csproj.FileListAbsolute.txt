@@ -1,0 +1,5 @@
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK026/obj/Debug/net6.0/TASK026.csproj.AssemblyReference.cache
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK026/obj/Debug/net6.0/TASK026.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK026/obj/Debug/net6.0/TASK026.AssemblyInfoInputs.cache
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK026/obj/Debug/net6.0/TASK026.AssemblyInfo.cs
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK026/obj/Debug/net6.0/TASK026.csproj.CoreCompileInputs.cache
