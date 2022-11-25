@@ -1,0 +1,15 @@
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK029/bin/Debug/net6.0/TASK029
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK029/bin/Debug/net6.0/TASK029.deps.json
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK029/bin/Debug/net6.0/TASK029.runtimeconfig.json
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK029/bin/Debug/net6.0/TASK029.dll
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK029/bin/Debug/net6.0/TASK029.pdb
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK029/obj/Debug/net6.0/TASK029.csproj.AssemblyReference.cache
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK029/obj/Debug/net6.0/TASK029.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK029/obj/Debug/net6.0/TASK029.AssemblyInfoInputs.cache
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK029/obj/Debug/net6.0/TASK029.AssemblyInfo.cs
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK029/obj/Debug/net6.0/TASK029.csproj.CoreCompileInputs.cache
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK029/obj/Debug/net6.0/TASK029.dll
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK029/obj/Debug/net6.0/refint/TASK029.dll
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK029/obj/Debug/net6.0/TASK029.pdb
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK029/obj/Debug/net6.0/TASK029.genruntimeconfig.cache
+/Users/aholu/Documents/Обученин/GeekBrains/Введение в С#/11.11.22/TASK029/obj/Debug/net6.0/ref/TASK029.dll
